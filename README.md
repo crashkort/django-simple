@@ -33,3 +33,5 @@ A simple Django project template.
    ```
    python manage.py runserver
    ```
+
+Wasaa live E2E
